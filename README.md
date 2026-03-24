@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://choosealicense.com/licenses/mit/)
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=flat-square)](https://text-cleaner-six.vercel.app/)
 
-<img width="1919" height="977" alt="Text Cleaner Preview" src="https://via.placeholder.com/1919x977?text=Add+Your+Screenshot+Here" />
+<img width="1884" height="974" alt="Screenshot 2026-03-24 173928" src="https://github.com/user-attachments/assets/fec53e88-4d56-4431-b09d-8e6681317667" />
 
 ---
 
