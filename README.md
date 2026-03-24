@@ -177,4 +177,4 @@ Please make sure to update tests as appropriate.
 
 ## 📄 License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [zoomkoding](https://github.com/zoomkoding)
+[MIT](https://choosealicense.com/licenses/mit/) © [Nipun](https://github.com/NipunKushwaha-web)
